@@ -100,11 +100,7 @@ python clickjacking_tester.py --web --port 8550
 
 ## Scope
 
-This project does not include an HTTP header checker, a security
-dashboard/score, report/PDF/CSV export, a logging or scan history system,
-a vulnerability database, cookie/TLS scanning, technology fingerprinting,
-an OWASP dashboard, or general web vulnerability scanning. It is scoped to
-clickjacking checks, demo-page creation and hosting, and header-based
+This project is scoped to clickjacking checks, demo-page creation and hosting, and header-based
 frame-protection analysis.
 
 ## License
