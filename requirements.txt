@@ -1,0 +1,7 @@
+flet==0.85.3
+flet-webview==0.85.3
+fastapi==0.139.0
+uvicorn[standard]==0.50.1
+httpx==0.28.1
+Jinja2==3.1.6
+pydantic==2.13.4
